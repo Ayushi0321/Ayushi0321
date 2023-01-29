@@ -10,7 +10,7 @@
 
 ##### 💪 I'm proficient in coding in Python, Java, and Kotlin. Strong engineering professional skilled in Back-end Technologies and databases. I'm well-versed in PHP, Django, Figma, MySQL, MS SQL, MongoDB, PowerBI, and more.
 
-##### 📫 Reach me at ayushi.ayushi214@gmail.com 
+##### 📫 Reach me on LinkedIn at www.linkedin.com/in/ayushi-2103/
 
 
 <!--
