@@ -2,18 +2,15 @@
 
 ##### 🎓 I'm Majoring in Computer Science and double minoring in Business Analytics & Data Science at Western Michigan University. 
 
-##### 📚 Academically, I believe my background has prepared me to succeed in the technology and software engineering sector. My major allowed me to gain a fair amount of experience with programming in Python, JavaScript & Java, building interactive data visuals in MS Excel & PowerBI as well as querying and manipulating data in MySQL, MSSQL & MongoDB. 
+##### 📚 Academically, I believe my background has prepared me to succeed in the technology and software engineering sector. My major allowed me to gain a fair amount of experience with programming in Python, JavaScript & Java, building interactive data visuals in MS Excel & PowerBI, and querying and manipulating data in MySQL, MSSQL & MongoDB. 
 
-##### 💻 In my career, I'm interested in getting into Software Engineering field. My previous roles have strengthened my critical thinking and decision-making capabilities, including keen attention to detail and accuracy. I am a quick learner with strong team management, communication, and organizational skills. I'm passionate about developing applications to improve people's daily life. I aspire to push the limit of human innovation and give people an opportunity to learn and create through coding.  I also envision working for organizations to increase diversity and help inspire women and minorities to pursue careers in technology. 
+##### 💻 In my career, I'm interested in getting into Software Engineering. My previous roles have strengthened my critical thinking and decision-making capabilities, including keen attention to detail and accuracy. I am a quick learner with strong team management, communication, and organizational skills. I'm passionate about developing applications to improve people's daily life. I aspire to push the limit of human innovation and allow people to learn and create through coding. I also envision working for organizations to increase diversity and help inspire women and minorities to pursue careers in technology.
 
-##### 👩‍🍳👩‍💻 Outside of work, I like to try my hand at cooking different cuisines and baking. In my free time you can find me exploring new topics to learn and coding.
+##### 👩‍🍳👩‍💻 Outside of work, I like to try my hand at cooking different cuisines and baking. In my free time, you can find me exploring new topics to learn and coding.
 
-##### 💪 I'm proficient in coding in Python, Java, and Kotlin. Strong engineering professional skilled in Back-end Technologies and Database. I'm well-versed with PHP, Django, Figma, MySQL, MS SQL, MongoDB, PowerBI, and more.
+##### 💪 I'm proficient in coding in Python, Java, and Kotlin. Strong engineering professional skilled in Back-end Technologies and databases. I'm well-versed in PHP, Django, Figma, MySQL, MS SQL, MongoDB, PowerBI, and more.
 
 ##### 📫 Reach me at ayushi.ayushi214@gmail.com 
-
-
-
 
 
 <!--
