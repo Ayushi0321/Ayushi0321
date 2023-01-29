@@ -2,7 +2,7 @@
 
 ##### 🎓 I'm Majoring in Computer Science and double minoring in Business Analytics & Data Science at Western Michigan University. 
 
-##### 📚 Academically, I believe my background has prepared me to succeed in the technology and software engineering sector. My major allowed me to gain a fair amount of experience with programming in Python, JavaScript & Java, building interactive data visuals in MS Excel & PowerBI, and querying and manipulating data in MySQL, MSSQL & MongoDB. 
+##### 📚 Academically, I believe my background has prepared me to succeed in the technology and software engineering sector. My major allowed me to gain a fair amount of experience with programming in Python, JavaScript & Java, building interactive data visuals in MS Excel & PowerBI, and querying and manipulating data in MySQL, MS SQL & MongoDB. 
 
 ##### 💻 In my career, I'm interested in getting into Software Engineering. My previous roles have strengthened my critical thinking and decision-making capabilities, including keen attention to detail and accuracy. I am a quick learner with strong team management, communication, and organizational skills. I'm passionate about developing applications to improve people's daily life. I aspire to push the limit of human innovation and allow people to learn and create through coding. I also envision working for organizations to increase diversity and help inspire women and minorities to pursue careers in technology.
 
