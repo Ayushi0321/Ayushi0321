@@ -1,6 +1,6 @@
 ##### 👋 Hi, my name is Ayushi.
 
-##### 🎓 I'm Majoring in Computer Science and double minoring in Business Analytics & Data Science at Western Michigan University. 
+##### 🎓 I recently graduated with my Bachelors degree in Computer Science from Western Michigan University. I pursued my minors in Business Analytics & Data Science to expand my skill set and enhance my analytical capabilities. 
 
 ##### 📚 Academically, I believe my background has prepared me to succeed in the technology and software engineering sector. My major allowed me to gain a fair amount of experience with programming in Python, JavaScript & Java, building interactive data visuals in MS Excel & PowerBI, and querying and manipulating data in MySQL, MS SQL & MongoDB. 
 
